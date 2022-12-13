@@ -18,7 +18,7 @@
     "loopback": "2.x.x",
     "should": "~5.0.1",
     "mocha": "~2.1.0",
-    "loopback-explorer": "^1.7.1"
+    "loopback-explorer": "^2.0.2"
   },
   "repository": {
     "type": "git",
